@@ -6,7 +6,7 @@ using UnityEngine;
 public class PlayerMovementController : MonoBehaviour {
 
 	public Text speed;
-	private int kph;
+	public int kph;
 	private Vector3 previous;
 
 	// Use this for initialization

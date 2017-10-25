@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\PlayerMovementController.cs" />
+     <Compile Include="Assets\Scripts\Speedometer.cs" />
      <Compile Include="Assets\Scripts\tpBehaviourController.cs" />
      <Compile Include="Assets\Scripts\tpController.cs" />
  <Reference Include="UnityEngine.UI">

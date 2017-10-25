@@ -5,7 +5,7 @@ using UnityEngine;
 public class tpController : MonoBehaviour {
 
 	public GameObject Obstacle;
-	private bool test = false;
+
 	// Use this for initialization
 	void Start () {
 		RepopulateObstacles ();
